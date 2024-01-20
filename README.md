@@ -2,7 +2,7 @@
 
 ## Objective 🚀
 
-This code aims to develop a comprehensive retail recommendation system, providing personalized suggestions globally, adapting to monthly variations, and considering country-wise preferences. The system enhances user experience, boosts engagement, and aids in efficient item discovery through tailor-made recommendations.
+THE "RECOMMENDATION SYSTEM" AIMED TO CREATE A IDEA ABOUT WHICH ITEM IS TO RECOMMEND GLOBALLY, COUNTRY-WISE, AND MONTH-WISE, AND THE ITEM IS RECOMMENDED IS BASED ON ESTIMATED RATING AND USER RATING 
 
 ## Tasks Performed 📋
 
